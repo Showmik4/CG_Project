@@ -1,12 +1,3 @@
-/* Project Name: City Road View;
-Name: 1. Alam, Md. Ashraful (15-28990-1);
-      2. Ibtida, Muhtasim (15-29003-2);
-      3. Rahman, Md. Ashiqur (15-28713-1);
-
-Section: F
-
-GitHub Link: https://github.com/jameahmed/City-Road-View
-*/
 #include <windows.h>
 #include <stdio.h>
 #include <math.h>
